@@ -1,4 +1,10 @@
 {
   "item.more-apples.coal_apple": "Coal Apple",
-  "item.more-apples.diamond_apple": "Diamond Apple"
+  "item.more-apples.copper_apple": "Copper Apple",
+  "item.more-apples.diamond_apple": "Diamond Apple",
+  "item.more-apples.emerald_apple": "Emerald Apple",
+  "item.more-apples.iron_apple": "Iron_Apple",
+  "item.more-apples.lapis_apple": "Lapis Apple",
+  "item.more-apples.netherite_apple": "Netherite_Apple",
+  "item.more-apples.redstone_apple": "Redstone Apple"
 }
